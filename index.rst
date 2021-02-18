@@ -9,12 +9,8 @@ Welcome to Git Technical Doc's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
+   
+   file1.md
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
