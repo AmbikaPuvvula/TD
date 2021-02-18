@@ -6,4 +6,4 @@
 2. Version Control
 3. Types of Version Control
 4. Git Introduction
-5. 
+5. Git Basics
